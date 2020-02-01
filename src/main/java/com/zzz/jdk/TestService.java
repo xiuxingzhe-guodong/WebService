@@ -1,4 +1,4 @@
-package com.zzz;
+package com.zzz.jdk;
 
 import javax.xml.ws.Endpoint;
 

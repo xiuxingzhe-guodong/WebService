@@ -1,4 +1,4 @@
-package com.zzz;
+package com.zzz.jdk;
 
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
