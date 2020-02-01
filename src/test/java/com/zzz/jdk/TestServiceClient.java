@@ -1,4 +1,4 @@
-package com.zzz;
+package com.zzz.jdk;
 
 public class TestServiceClient {
 	public static void main(String[] args) {
